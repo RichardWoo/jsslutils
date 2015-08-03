@@ -15,4 +15,5 @@ Although the main project is licensed under the New BSD Licence, some sub-module
 # Project owner
 Bruno Harbulot, The University of Manchester.
 
+<hr/>
 wiki(doc) please switch to wiki branch.
